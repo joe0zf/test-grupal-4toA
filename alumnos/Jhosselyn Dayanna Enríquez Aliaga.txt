@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Soi io uwu
-hola, holaa
-=======
 Soi io uwu
 Hola, hola
->>>>>>> e8931816e4036b54d66829db0474bc01e0f146de
+
